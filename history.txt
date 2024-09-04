@@ -6,3 +6,4 @@ qwerty
 yuiop[
 merge error
 Lorem Ipsum is not simply random text
+comes from a line
