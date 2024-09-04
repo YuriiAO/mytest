@@ -5,3 +5,4 @@ qwerty
 09876
 yuiop[
 merge error
+Lorem Ipsum is not simply random text
