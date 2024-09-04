@@ -1,0 +1,26 @@
+Практическая работа №3
+Для тех у кого нет аккаунта в https://github.com/, можно зарегистрироваться на https://about.gitlab.com/
+При регистрации используйте гугл почту, это упростить дальнейшую работу. Иначе может не пройти регистрация. Сервисы работают идентично, принципиальной разницы нет. Также можно использовать любой другой аналогичный сервис, если у вас есть аккаунт.
+Все задания выполнять в терминале (консоле).
+##Задание 1.
+Необходимо создать аккаунт Git Lab. Скриншот результата прикрепить ниже
+##Задание 2.
+Необходимо в созданном аккаунте создать публичный репозиторий project. Скриншот результата и ссылку на репозиторий прикрепить ниже.
+##Задание 3.
+Необходимо в репозитории создать файл README.md, где написать следующее:
+это домашнее задание по проекту Git Lab.
+Скриншот результата и ссылку на коммит с добавленным файлом прикрепить ниже.
+##Задание 4.
+Необходимо в репозитории создать файл проекта lorem.txt и добавить следующее:
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Созданный файл запушить в main ветку и скриншот результата прикрепить ниже.
+##Задание 5.
+Необходимо переименовать ветку main в master или же если у вас уже ветка master, то переименовать в main:
+Скриншот результата прикрепить ниже.
+##Задание 6.
+Создать ветку testing и в рамках нее добавить файл history.txt со следующим текстом:
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Скриншот результата прикрепить ниже и ссылку на коммит также прикрепить.
+##Задание 7.
+Смержить ветку testing с веткой master (или main). Скриншот результата прикрепить ниже.
+Сделать скринштоты к заданиям 1-7(с пояснением своих действий, на скриншоте должна быть информация, которая относится к соответсвующему пункту задания), оформить в один pdf документ и загрузить его на проверку.
